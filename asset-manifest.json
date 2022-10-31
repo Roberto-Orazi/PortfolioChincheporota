@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe36d137.css",
-    "main.js": "/static/js/main.b6e48d4a.js",
+    "main.css": "/static/css/main.48d4f3dc.css",
+    "main.js": "/static/js/main.51543d50.js",
     "static/js/787.2d943856.chunk.js": "/static/js/787.2d943856.chunk.js",
+    "static/media/bannerfondo1.JPG": "/static/media/bannerfondo1.ce78aa6272d8065e4a12.JPG",
     "static/media/outdoor.jpg": "/static/media/outdoor.01b16e4025e906c576ff.jpg",
     "static/media/bannerfondo.jpg": "/static/media/bannerfondo.b0ae5f78085764cea652.jpg",
     "static/media/portfoliomoda.jpg": "/static/media/portfoliomoda.4e2c5638bd9280540400.jpg",
@@ -13,12 +14,12 @@
     "static/media/eventos.jpeg": "/static/media/eventos.21dbfdbee48d7f34ca0c.jpeg",
     "static/media/Mohan.ttf": "/static/media/Mohan.14144880f5c4dfbd2f0e.ttf",
     "index.html": "/index.html",
-    "main.fe36d137.css.map": "/static/css/main.fe36d137.css.map",
-    "main.b6e48d4a.js.map": "/static/js/main.b6e48d4a.js.map",
+    "main.48d4f3dc.css.map": "/static/css/main.48d4f3dc.css.map",
+    "main.51543d50.js.map": "/static/js/main.51543d50.js.map",
     "787.2d943856.chunk.js.map": "/static/js/787.2d943856.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe36d137.css",
-    "static/js/main.b6e48d4a.js"
+    "static/css/main.48d4f3dc.css",
+    "static/js/main.51543d50.js"
   ]
 }
